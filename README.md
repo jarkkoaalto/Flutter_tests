@@ -4,11 +4,11 @@ This repo is Flutter App testing purpose. Repository contains different test Wid
 # Animated login page #
 
 
-
+![Screenshot](animated_log01.png)
+![Screenshot](animated_log02.png)
 
 
 # Flip Card #
 
 ![Screenshot](flipCard_front.png)
-
 ![Screenshot](flipCard_back.png)
