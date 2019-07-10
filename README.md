@@ -12,3 +12,8 @@ This repo is Flutter App testing purpose. Repository contains different test Wid
 
 ![Screenshot](flipCard_front.png)
 ![Screenshot](flipCard_back.png)
+
+# Splash page #
+
+![Screenshot](splash_start.png)
+![Screenshot](splash_landing.png)
