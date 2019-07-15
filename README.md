@@ -56,10 +56,17 @@ Saving data SQLite database and read data
 
 Saving and read data text file
 
-![Screenshot](file.png)
 
 # Reset Checknox example #
 
 How  Reset checkboxes on button click in flutter
 
-![Screenshot]{reset_checkbox.png}
+![Screenshot](reset_checkbox.png)
+
+
+# Send data to a new Screen #
+
+Often you not only want to navidate to a new screen, but also pass data to the screen as well. For example, your might want to pass information about the items that's been tapped
+
+![Screenshot](send_data_01.png)
+![Screenshot](send_data_02.png)
