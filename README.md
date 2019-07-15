@@ -57,3 +57,9 @@ Saving data SQLite database and read data
 Saving and read data text file
 
 ![Screenshot](file.png)
+
+# Reset Checknox example #
+
+How  Reset checkboxes on button click in flutter
+
+![Screenshot]{reset_checkbox.png}
