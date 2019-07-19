@@ -70,3 +70,10 @@ Often you not only want to navidate to a new screen, but also pass data to the s
 
 ![Screenshot](send_data_01.png)
 ![Screenshot](send_data_02.png)
+
+# Global Variable Demo App #
+This application is demo how to use global variables
+
+![Screenshot](globalvar_01.png)
+![Screenshot](globalvar_02.png)
+![Screenshot](globalvar_03.png)
