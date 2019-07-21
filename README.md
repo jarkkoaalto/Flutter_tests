@@ -77,3 +77,10 @@ This application is demo how to use global variables
 ![Screenshot](globalvar_01.png)
 ![Screenshot](globalvar_02.png)
 ![Screenshot](globalvar_03.png)
+
+# SQFLite Database in Flutter #
+SQFLite is a Database pugin for flutter. It is highly reliable and embedded Database engine. For CRUD operation we are using async and await. Typically these leywords are used to write
+asynchronous code.
+
+![Screenshot](sqldatabase01.png)
+![Screenshot](sqldatabase02.png)
