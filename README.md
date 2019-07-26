@@ -84,3 +84,11 @@ asynchronous code.
 
 ![Screenshot](sqldatabase01.png)
 ![Screenshot](sqldatabase02.png)
+
+# Solitaire application #
+
+![Screenshot](solitaire.png)
+
+# Stepper Touch #
+
+![Screenshot](stepper_touch.png)
